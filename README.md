@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarutsav1102&label=Profile%20views&color=0e75b6&style=flat" alt="kumarutsav1102" /> </p>
 
-- 🔭 I’m currently working on **mern stack projects**
+- 🔭 🌱 I’m currently learning **web development (React, Node.js) and problem-solving with C++.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +18,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarutsav1102&show_icons=true&locale=en&layout=compact" alt="kumarutsav1102" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarutsav1102&" alt="kumarutsav1102" /></p>
+
