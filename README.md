@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarutsav1102&label=Profile%20views&color=0e75b6&style=flat" alt="kumarutsav1102" /> </p>
 
-- 🔭 🌱 I’m currently learning **web development (React, Node.js) and problem-solving with C++.**
+- 🔭 🌱 Full stack Developer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
